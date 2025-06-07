@@ -10,11 +10,6 @@ body {
   color: #333;
 }
 
-h1 {
-  color: #007bff;
-  margin-bottom: 50px;
-}
-
 .custom-select-wrapper {
   position: relative;
   width: 250px;
